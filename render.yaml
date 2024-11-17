@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: backend
+    envVars:
+      - key: JUDGE0_API_KEY
+  - type: web
+    name: frontend
+    envVars:
+      - key: REACT_APP_API_URL
