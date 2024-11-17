@@ -1,7 +1,9 @@
+
 {
   "name": "code-runner-frontend",
   "dependencies": {
     "axios": "^1.4.0",
-    "monaco-editor-react": "^4.4.2"  // Updated version
+    "monaco-editor-react": "^4.4.2"
   }
 }
+
